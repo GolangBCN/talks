@@ -1,4 +1,5 @@
 ---
+type: standard | lightning
 level: beginner | medium | advanced
 twitter: [@you](https://twitter.com/you)
 email: your@email.com (optional)
